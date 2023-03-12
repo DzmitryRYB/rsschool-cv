@@ -46,3 +46,15 @@ def multip_of(a, b, c):
 print('resl func =', summ_of(10, 20))
 print('resl func =', multip_of(2, 5, 4))
 ```
+
+## Education
+* University
+    + Belarusian State Academy of Communications
+    + Management Academy
+* Courses
+    + Voyti v IT *(in the learning process)*
+    + RS School *(in the learning process)*
+
+## Language
+* English *(A2)*
+* Russian *(Native speaker)*
